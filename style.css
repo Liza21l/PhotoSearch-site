@@ -1,0 +1,187 @@
+header{
+    background: url(./pexels-taryn-elliott-4183522.jpg);
+    background-size: cover;
+    height: 485px;  
+}
+.logo{
+    padding-top: 45px;
+    padding-left: 70px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 18px;
+    
+    color: #FFFFFF;
+}
+.btn{
+    cursor: pointer;
+    position: absolute;
+    margin-left: 1300px;
+    margin-top: -25px;
+    width: 115px;
+    height: 37px;
+    border: none;
+    background: #B7C7AD;
+    border-radius: 5px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 12px;
+    
+    color: #FFFFFF;
+    
+}
+.text{
+    position: absolute;
+    margin-top: -150px;
+    margin-left: -650px;
+    width: 350px;
+    height: 58px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 29px;
+    
+    color: #FFFFFF;
+}
+.search-panel{
+    margin-left: 530px;
+    margin-top: 240px;
+    width: 430px;
+    height: 42px;
+    background: #FFFFFF;
+    display: flex;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.search-input{
+    padding: 0 0 0 15px;
+    margin: 0;
+    width: 85px;
+    height: 100%;
+    border: none;
+}
+.search-input:focus{
+    outline: none;
+}
+.search-btn{
+    margin-left: 280px;
+    cursor: pointer;
+    width: 15%;
+    height: 100%;
+    background: none;
+    border: none;
+}
+
+p{
+    margin-top: -13px;
+    padding-left: 1180px;
+    font-size: 14px;  
+    color: #FFFFFF;
+}
+.loadMore{
+    display: none;
+    margin: 20px auto;
+    cursor: pointer;
+    border: none;
+    background: #687B5B;
+    color: #FFFFFF;
+    width: 150px;
+    height: 50px;
+    border-radius: 25px;
+}
+.photo-card{
+    border-radius: 15px;
+    overflow: hidden;
+    border: 3px solid #A3BB93;
+    padding: 5px;
+}
+.photo-img{
+    border-radius: 15px;
+    width: 390px;
+    height: 330px;
+}
+.Gallery{
+    margin-top: 35px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    row-gap: 15px;
+}
+.recommendations{
+    display: block;
+}
+.title{
+    margin-top: 85px;
+    color: rgb(61, 111, 69);
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 29px;
+    margin-left: -1110px;
+}
+.foto1{
+    margin-top: 55px;
+    margin-left: 70px;
+    width: 300px;
+}
+.foto2{
+    width: 350px;
+    position: absolute;
+    padding-top: 55px;
+    margin-left: 40px;
+}
+.foto3{
+    width: 650px;
+    height: 450px;
+    position: absolute;
+    padding-top: 55px;
+    margin-left: 430px;
+}
+.foto4{
+    position: absolute;
+    width: 320px;
+    margin-top: 530px;
+    margin-left: -300px;
+}
+.foto5{
+    position: absolute;
+    width: 350px;
+    margin-top: 600px;
+    margin-left: 40px;
+}
+.foto6{
+    position: absolute;
+    width: 650px;
+    margin-top: 545px;
+    margin-left: 415px;
+}
+.btnLink{
+    position: absolute;
+    cursor: pointer;
+    margin-left: 1000px;
+    margin-top: -15px;
+    border: none;
+    color: #FFFFFF;
+    background: none;
+}
+.addBtn{
+    position: absolute;
+    margin-top: -20px;
+    margin-left: 170px;
+    width: 69px;
+    height: 24px; 
+    background: #849777;
+    border-radius: 4px;
+    border: none;
+    color: #FFFFFF;
+}
+.TextAdd{
+    color: black;
+    padding-top: 25px;
+    margin-left: -1150px;
+}
